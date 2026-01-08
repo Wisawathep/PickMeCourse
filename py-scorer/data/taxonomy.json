@@ -1,0 +1,130 @@
+{
+  "domains": [
+    {
+      "slug": "language",
+      "label_th": "ภาษา",
+      "subdomains": [
+        {
+          "slug": "speaking",
+          "label_th": "การพูด"
+        },
+        {
+          "slug": "reading",
+          "label_th": "การอ่าน"
+        },
+        {
+          "slug": "writing",
+          "label_th": "การเขียน"
+        },
+        {
+          "slug": "career",
+          "label_th": "ภาษาเพื่ออาชีพ"
+        }
+      ]
+    },
+    {
+      "slug": "math",
+      "label_th": "คณิตศาสตร์",
+      "subdomains": [
+        {
+          "slug": "applied",
+          "label_th": "ประยุกต์/เทคโนโลยี"
+        },
+        {
+          "slug": "statistics",
+          "label_th": "สถิติ/วิจัย"
+        }
+      ]
+    },
+    {
+      "slug": "science",
+      "label_th": "วิทยาศาสตร์",
+      "subdomains": [
+        {
+          "slug": "basic",
+          "label_th": "วิทย์พื้นฐาน"
+        },
+        {
+          "slug": "health",
+          "label_th": "วิทย์สุขภาพ"
+        },
+        {
+          "slug": "tech",
+          "label_th": "วิทย์เทคโนโลยี"
+        },
+        {
+          "slug": "environment",
+          "label_th": "สิ่งแวดล้อม/พลังงาน"
+        }
+      ]
+    },
+    {
+      "slug": "social",
+      "label_th": "สังคมศาสตร์",
+      "subdomains": [
+        {
+          "slug": "culture",
+          "label_th": "สังคมวัฒนธรรม"
+        },
+        {
+          "slug": "economics",
+          "label_th": "เศรษฐศาสตร์/ธุรกิจ"
+        }
+      ]
+    },
+    {
+      "slug": "humanities",
+      "label_th": "มนุษย์ศาสตร์",
+      "subdomains": [
+        {
+          "slug": "psychology",
+          "label_th": "จิตวิทยา/พฤติกรรม"
+        },
+        {
+          "slug": "qol",
+          "label_th": "คุณภาพชีวิต"
+        },
+        {
+          "slug": "ethics",
+          "label_th": "คุณธรรม/จริยธรรม"
+        }
+      ]
+    },
+    {
+      "slug": "technology",
+      "label_th": "เทคโนโลยี",
+      "subdomains": [
+        {
+          "slug": "it",
+          "label_th": "ไอที"
+        },
+        {
+          "slug": "engineering",
+          "label_th": "วิศวกรรมพื้นฐาน"
+        },
+        {
+          "slug": "energy_materials",
+          "label_th": "พลังงาน/วัสดุ"
+        }
+      ]
+    },
+    {
+      "slug": "sports_rec",
+      "label_th": "กีฬาและนันทนาการ",
+      "subdomains": [
+        {
+          "slug": "sports",
+          "label_th": "กีฬา"
+        },
+        {
+          "slug": "games_social",
+          "label_th": "เกม/นันทนาการสังคม"
+        },
+        {
+          "slug": "exercise",
+          "label_th": "การออกกำลังกาย"
+        }
+      ]
+    }
+  ]
+}

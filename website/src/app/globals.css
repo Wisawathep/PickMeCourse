@@ -1,0 +1,27 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+body {
+  font-family: 'Kanit', Arial, Helvetica, sans-serif;
+  background-color: #f8fafc; 
+  color: #1f2937; 
+}
+
+@keyframes fadeinbottom {
+  0% {
+    opacity: 0;
+    transform: translateY(50px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.fadein-bottom {
+  animation: fadeinbottom 2s ease 0s 1 normal forwards;
+}
+
+* {
+  box-sizing: border-box;
+}

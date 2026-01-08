@@ -1,0 +1,443 @@
+[
+  {
+    "id": "q01",
+    "text_th": "คุณรู้สึกสนุกเมื่อได้อธิบายเรื่องต่างๆ เป็นภาษาอังกฤษ",
+    "domain": "language",
+    "subdomain": "speaking",
+    "role": "anchor"
+  },
+  {
+    "id": "q02",
+    "text_th": "เวลาฟังเจ้าของภาษาพูด คุณมักเผลอลอกเลียนแบบเสียงหรือพูดตาม",
+    "domain": "language",
+    "subdomain": "speaking",
+    "role": "backup"
+  },
+  {
+    "id": "q03",
+    "text_th": "คุณรู้สึกมั่นใจเมื่อต้องพูดภาษาอังกฤษเพื่ออธิบายสิ่งที่ซับซ้อน",
+    "domain": "language",
+    "subdomain": "speaking",
+    "role": "backup"
+  },
+  {
+    "id": "q04",
+    "text_th": "เวลาอ่านเรื่องยาว ๆ คุณชอบสรุปใจความเองมากกว่าอ่านตามทุกคำ",
+    "domain": "language",
+    "subdomain": "reading",
+    "role": "anchor"
+  },
+  {
+    "id": "q05",
+    "text_th": "เมื่อเจอคำศัพท์ที่ไม่รู้ คุณมักจะเดาความหมายของคำก่อนหาคำแปล",
+    "domain": "language",
+    "subdomain": "reading",
+    "role": "backup"
+  },
+  {
+    "id": "q06",
+    "text_th": "คุณมักรู้สึกสนุกเวลาอ่านเรื่อราวจากประเทศหรือต่างวัฒนธรรม",
+    "domain": "language",
+    "subdomain": "reading",
+    "role": "backup"
+  },
+  {
+    "id": "q07",
+    "text_th": "การเขียนภาษาอังกฤษทำให้คุณเข้าใจ และจำเนื้อหาได้ดีขึ้น",
+    "domain": "language",
+    "subdomain": "writing",
+    "role": "anchor"
+  },
+  {
+    "id": "q08",
+    "text_th": "คุณรู้สึกสนุกกับการปรับแก้ประโยคภาษาอังกฤษให้กระชับหรือฟังดูเป็นธรรมชาติมากขึ้น",
+    "domain": "language",
+    "subdomain": "writing",
+    "role": "backup"
+  },
+  {
+    "id": "q09",
+    "text_th": "ในงานกลุ่ม คุณมักถนัดเขียนบันทึกหรือสรุปมากกว่าพูด",
+    "domain": "language",
+    "subdomain": "writing",
+    "role": "backup"
+  },
+  {
+    "id": "q10",
+    "text_th": "คุณรู้สึกมีแรงบันดาลใจเมื่อคิดถึงการทำงานในสภาพแวดล้อมที่ต้องใช้ภาษาอังกฤษ",
+    "domain": "language",
+    "subdomain": "career",
+    "role": "anchor"
+  },
+  {
+    "id": "q11",
+    "text_th": "คุณรู้สึกการใช้ภาษาอังกฤษช่วยให้คุณกล้าแสดงออก",
+    "domain": "language",
+    "subdomain": "career",
+    "role": "backup"
+  },
+  {
+    "id": "q12",
+    "text_th": "คุณมักสังเกตคำศัพท์หรือรูปแบบภาษาที่ใช้ในเฉพาะในสถานการณ์ต่างๆ",
+    "domain": "language",
+    "subdomain": "career",
+    "role": "backup"
+  },
+  {
+    "id": "q13",
+    "text_th": "คุณรู้สึกสนุกเมื่อได้ใช้คณิตศาสตร์อธิบายปรากฎการณ์ในชีวิตจริง",
+    "domain": "math",
+    "subdomain": "applied",
+    "role": "anchor"
+  },
+  {
+    "id": "q14",
+    "text_th": "การได้ใช้เครื่องมือหรือโปรแกรมช่วยคำนวณ ทำให้คุณรู้สึกอยากลองสำรวจมากขึ้น",
+    "domain": "math",
+    "subdomain": "applied",
+    "role": "backup"
+  },
+  {
+    "id": "q15",
+    "text_th": "คุณรู้สึกท้าทายและเพลิดเพลินเมื่อได้แก้ปัญหาด้วยแนวคิดเชิงตัวเลข",
+    "domain": "math",
+    "subdomain": "applied",
+    "role": "backup"
+  },
+  {
+    "id": "q16",
+    "text_th": "เมื่อได้ข้อมูลจำนวนมาก คุณชอบจัดระเบียบออกมาในรูปแบบกราฟหรือแผนภาพ",
+    "domain": "math",
+    "subdomain": "statistics",
+    "role": "anchor"
+  },
+  {
+    "id": "q17",
+    "text_th": "เวลาเห็นข่าวหรือข้อมูล คุณมักมองหาตัวเลขประกอบการตัดสินใจก่อนจะเชื่อ",
+    "domain": "math",
+    "subdomain": "statistics",
+    "role": "backup"
+  },
+  {
+    "id": "q18",
+    "text_th": "คุณรู้สึกว่าตารางหรือกราฟช่วยให้เข้าใจเรื่องราวได้เร็วขึ้น",
+    "domain": "math",
+    "subdomain": "statistics",
+    "role": "backup"
+  },
+  {
+    "id": "q19",
+    "text_th": "เวลาเห็นปรากฏการณ์ธรรมชาติ คุณมักสงสัยว่ามันเกิดขึ้นได้ยังไง",
+    "domain": "science",
+    "subdomain": "basic",
+    "role": "anchor"
+  },
+  {
+    "id": "q20",
+    "text_th": "คุณรู้สึกตื่นเต้นเวลาได้เห็นการทดลองที่อธิบายหลักการทางวิทยาศาสตร์",
+    "domain": "science",
+    "subdomain": "basic",
+    "role": "backup"
+  },
+  {
+    "id": "q21",
+    "text_th": "ถ้าได้เลือก คุณอยากเข้าใจเหตุผลเบื้องหลังมากกว่าการท่องจำ",
+    "domain": "science",
+    "subdomain": "basic",
+    "role": "backup"
+  },
+  {
+    "id": "q22",
+    "text_th": "คุณมักจะสังเกตพฤติกรรมหรืออาหารที่ส่งผลต่อร่างกายตัวเอง",
+    "domain": "science",
+    "subdomain": "health",
+    "role": "anchor"
+  },
+  {
+    "id": "q23",
+    "text_th": "คุณมักหาข้อมูลเรื่องสมุนไพรหรือยาเวลาป่วยเล็กน้อย",
+    "domain": "science",
+    "subdomain": "health",
+    "role": "backup"
+  },
+  {
+    "id": "q24",
+    "text_th": "คุณสนใจร่างกายมนุษย์ทำงานอย่างไรในระดับชีววิทยาหรือเคมี",
+    "domain": "science",
+    "subdomain": "health",
+    "role": "backup"
+  },
+  {
+    "id": "q25",
+    "text_th": "เวลาเห็นสิ่งประดิษฐ์ใหม่ๆ คุณมักอยากรู้ว่ามันทำงานยังไง",
+    "domain": "science",
+    "subdomain": "tech",
+    "role": "anchor"
+  },
+  {
+    "id": "q26",
+    "text_th": "คุณชอบลองของใหม่หรือลองใช้อุปกรณ์เทคโนโลยีด้วยตัวเอง",
+    "domain": "science",
+    "subdomain": "tech",
+    "role": "backup"
+  },
+  {
+    "id": "q27",
+    "text_th": "คุณมักคิดหาวิธีใช้เทคโนโลยีเพื่อแก้ปัญหาหรือพัฒนาไอเดียใหม่ๆ",
+    "domain": "science",
+    "subdomain": "tech",
+    "role": "backup"
+  },
+  {
+    "id": "q28",
+    "text_th": "คุณชอบติดตามข่าวสารเกี่ยวกับธรรมชาติ สิ่งแวดล้อม",
+    "domain": "science",
+    "subdomain": "environment",
+    "role": "anchor"
+  },
+  {
+    "id": "q29",
+    "text_th": "คุณมักจะสนใจพลังงานสะอาดหรือแนวคิดรีไซเคิล",
+    "domain": "science",
+    "subdomain": "environment",
+    "role": "backup"
+  },
+  {
+    "id": "q30",
+    "text_th": "เวลามีโครงการอนุรักษ์ ฉันมักรู้สึกอยากจะเข้าร่วม",
+    "domain": "science",
+    "subdomain": "environment",
+    "role": "backup"
+  },
+  {
+    "id": "q31",
+    "text_th": "เวลาพบคนต่างพื้นเพ คุณอยากรู้เรื่องราวชีวิตของเขา",
+    "domain": "social",
+    "subdomain": "culture",
+    "role": "anchor"
+  },
+  {
+    "id": "q32",
+    "text_th": "คุณมักสนใจดูสารคดี หนัง หรือคอนเทนต์ที่เกี่ยวกับชีวิตของผู้คนในสังคมต่าง ๆ",
+    "domain": "social",
+    "subdomain": "culture",
+    "role": "backup"
+  },
+  {
+    "id": "q33",
+    "text_th": "คุณชอบสังเกตพฤติกรรมของผู้คนในสถานที่ต่าง ๆ เช่น ตลาด มหาวิทยาลัย",
+    "domain": "social",
+    "subdomain": "culture",
+    "role": "backup"
+  },
+  {
+    "id": "q34",
+    "text_th": "เวลาเห็นราคาสินค้าขึ้นลง คุณมักคิดถึงเหตุผลทางเศรษฐกิจ",
+    "domain": "social",
+    "subdomain": "economics",
+    "role": "anchor"
+  },
+  {
+    "id": "q35",
+    "text_th": "คุณอยากศึกษาเรียนรู้เรื่องเศรษฐศาสตร์การลงทุน และการบริหารธุรกิจ",
+    "domain": "social",
+    "subdomain": "economics",
+    "role": "backup"
+  },
+  {
+    "id": "q36",
+    "text_th": "คุณรู้สึกมีแรงบันดาลใจเวลาได้เรียนรู้เรื่องผู้ประกอบการที่เริ่มจากศูนย์แล้วประสบความสำเร็จ",
+    "domain": "social",
+    "subdomain": "economics",
+    "role": "backup"
+  },
+  {
+    "id": "q37",
+    "text_th": "เวลาเห็นคนทำอะไรบางอย่าง คุณมักจะสงสัยไหมว่าเขากำลังคิดอะไรอยู่ในขณะนั้น",
+    "domain": "humanities",
+    "subdomain": "psychology",
+    "role": "anchor"
+  },
+  {
+    "id": "q38",
+    "text_th": "คุณชอบวิเคราะห์ความรู้สึกหรือแรงจูงใจของคน",
+    "domain": "humanities",
+    "subdomain": "psychology",
+    "role": "backup"
+  },
+  {
+    "id": "q39",
+    "text_th": "คุณสนใจเรียนรู้ว่าคนแต่ละคนมีวิธีจัดการความคิดและอารมณ์อย่างไร",
+    "domain": "humanities",
+    "subdomain": "psychology",
+    "role": "backup"
+  },
+  {
+    "id": "q40",
+    "text_th": "เวลาทำงานหรือเรียนหนัก คุณพยายามหาสมดุลกับชีวิตส่วนตัว",
+    "domain": "humanities",
+    "subdomain": "qol",
+    "role": "anchor"
+  },
+  {
+    "id": "q41",
+    "text_th": "คุณชอบหาวิธีพัฒนาตัวเองให้มีชีวิตดีขึ้นทั้งกายและใจ",
+    "domain": "humanities",
+    "subdomain": "qol",
+    "role": "backup"
+  },
+  {
+    "id": "q42",
+    "text_th": "คุณสนุกกับการตั้งเป้าหมายชีวิตและพยายามทำให้สำเร็จ",
+    "domain": "humanities",
+    "subdomain": "qol",
+    "role": "backup"
+  },
+  {
+    "id": "q43",
+    "text_th": "เวลาเห็นเรื่องขัดแย้ง คุณมักคิดถึงความถูกต้องก่อนผลลัพธ์",
+    "domain": "humanities",
+    "subdomain": "ethics",
+    "role": "anchor"
+  },
+  {
+    "id": "q44",
+    "text_th": "คุณมักชอบฟังมุมมองหลากหลายก่อนตัดสินใจ",
+    "domain": "humanities",
+    "subdomain": "ethics",
+    "role": "backup"
+  },
+  {
+    "id": "q45",
+    "text_th": "คุณสนใจเรียนรู้ว่าค่านิยมและจริยธรรมมีอิทธิพลต่อการตัดสินใจของสังคมอย่างไร",
+    "domain": "humanities",
+    "subdomain": "ethics",
+    "role": "backup"
+  },
+  {
+    "id": "q46",
+    "text_th": "คุณชอบอยากรู้เบื้องหลังว่าระบบหรือแอปทำงานยังไง",
+    "domain": "technology",
+    "subdomain": "it",
+    "role": "anchor"
+  },
+  {
+    "id": "q47",
+    "text_th": "ถ้าเจอปัญหากับคอมพิวเตอร์ คุณมักหาวิธีแก้เองก่อนขอความช่วยเหลือ",
+    "domain": "technology",
+    "subdomain": "it",
+    "role": "backup"
+  },
+  {
+    "id": "q48",
+    "text_th": "คุณมักสนุกกับการลองใช้แอปหรือโปรแกรมใหม่ ๆ",
+    "domain": "technology",
+    "subdomain": "it",
+    "role": "backup"
+  },
+  {
+    "id": "q49",
+    "text_th": "เวลามีของพัง คุณมักพยายามหาวิธีซ่อมหรือดูโครงสร้างของมันก่อนทิ้ง",
+    "domain": "technology",
+    "subdomain": "engineering",
+    "role": "anchor"
+  },
+  {
+    "id": "q50",
+    "text_th": "คุณรู้สึกเพลิดเพลินเวลาได้ออกแบบหรือประกอบของเอง",
+    "domain": "technology",
+    "subdomain": "engineering",
+    "role": "backup"
+  },
+  {
+    "id": "q51",
+    "text_th": "คุณชอบทดลองและปรับปรุงจนของที่ทำออกมาสมบูรณ์หรือใช้งานได้จริง",
+    "domain": "technology",
+    "subdomain": "engineering",
+    "role": "backup"
+  },
+  {
+    "id": "q52",
+    "text_th": "คุณมักสงสัยว่าวัสดุแต่ละชนิดมีจุดเด่นยังไง",
+    "domain": "technology",
+    "subdomain": "energy_materials",
+    "role": "anchor"
+  },
+  {
+    "id": "q53",
+    "text_th": "คุณสนใจหาวิธีรีไซเคิลหรือนำวัสดุกลับมาใช้ใหม่",
+    "domain": "technology",
+    "subdomain": "energy_materials",
+    "role": "backup"
+  },
+  {
+    "id": "q54",
+    "text_th": "คุณสนใจติดตามเทคโนโลยีใหม่ ๆ ที่ช่วยลดการใช้พลังงาน",
+    "domain": "technology",
+    "subdomain": "energy_materials",
+    "role": "backup"
+  },
+  {
+    "id": "q55",
+    "text_th": "คุณรู้สึกสนุกในกีฬาที่ต้องใช้พละกำลัง",
+    "domain": "sports_rec",
+    "subdomain": "sports",
+    "role": "anchor"
+  },
+  {
+    "id": "q56",
+    "text_th": "การเล่นกีฬาเป็นวิธีหนึ่งที่ทำให้คุณจัดการกับความเครียดหรืออารมณ์ได้ดี",
+    "domain": "sports_rec",
+    "subdomain": "sports",
+    "role": "backup"
+  },
+  {
+    "id": "q57",
+    "text_th": "คุณสนุกกับกิจกรรมที่เกิดการแข่งขัน และมีกติกาที่ชัดเจน",
+    "domain": "sports_rec",
+    "subdomain": "sports",
+    "role": "backup"
+  },
+  {
+    "id": "q58",
+    "text_th": "คุณรู้สึกมีพลังเวลาได้เล่นเกมหรือกิจกรรมกับเพื่อน ๆ",
+    "domain": "sports_rec",
+    "subdomain": "games_social",
+    "role": "anchor"
+  },
+  {
+    "id": "q59",
+    "text_th": "คุณสนุกกับการวางกลยุทธ์หรือวางแผนในเกมเพื่อเอาชนะความท้าทาย",
+    "domain": "sports_rec",
+    "subdomain": "games_social",
+    "role": "backup"
+  },
+  {
+    "id": "q60",
+    "text_th": "คุณชอบออกไปทำกิจกรรมทางสังคม เช่น นันทนาการ มากกว่าอยู่บ้าน",
+    "domain": "sports_rec",
+    "subdomain": "games_social",
+    "role": "backup"
+  },
+  {
+    "id": "q61",
+    "text_th": "คุณมักตั้งเป้าหมายในการออกกำลังกายเพื่อท้าทายตัวเอง",
+    "domain": "sports_rec",
+    "subdomain": "exercise",
+    "role": "anchor"
+  },
+  {
+    "id": "q62",
+    "text_th": "คุณชอบลองออกกำลังกายแนวใหม่ๆ ที่คุณยังไม่เคยลองมาก่อน เช่นโยคะหรือฟิตเนส",
+    "domain": "sports_rec",
+    "subdomain": "exercise",
+    "role": "backup"
+  },
+  {
+    "id": "q63",
+    "text_th": "การออกกำลังกายช่วยให้คุณมีสมาธิในการทำงานหรือเรียน",
+    "domain": "sports_rec",
+    "subdomain": "exercise",
+    "role": "backup"
+  }
+]
