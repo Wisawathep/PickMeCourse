@@ -24,3 +24,10 @@ about which courses match their interests. This project was created to help solv
 - Improve recommendation accuracy
 - Add user authentication
 - Enhance UI/UX design
+
+***
+
+<h5 align="center">COMPUTER ENGINEERING<br>KING MONGKUT'S UNIVERSITY OF TECHNOLOGY NORTH BANGKOK, A.Y. 2023/26</h5>
+<p align="center">
+  <img width="100" height="100" src="https://github.com/Cutecatdoingcutething/ReadmeTools/Kmutnb/logo.png">
+</p>
