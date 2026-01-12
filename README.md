@@ -4,9 +4,10 @@ A web application that helps students choose elective courses based on their int
 ## ⭐ Motivation
 Choosing elective courses can be difficult because students often lack clear information 
 about which courses match their interests. This project was created to help solve that problem.
+Relevant course : software Engineering
 
 ## 🔑 Key Features
-- Recommends elective courses based on user preferences
+- Recommends elective courses based on user preferences using Jaccard Similality Algorithm
 - Simple and intuitive web interface
 - Course filtering and ranking system
 
