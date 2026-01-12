@@ -4,7 +4,6 @@ A web application that helps students choose elective courses based on their int
 ## ⭐ Motivation
 Choosing elective courses can be difficult because students often lack clear information 
 about which courses match their interests. This project was created to help solve that problem.
-Relevant course : software Engineering
 
 ## 🔑 Key Features
 - Recommends elective courses based on user preferences using Jaccard Similality Algorithm
@@ -42,7 +41,7 @@ Python | HTML | CSS | JavaScript | TypeScript | React | Next.js | Uvicorn | Post
 - How to design a simple recommendation logic
 - How to build a web application as a Frontend Developer
 
-## Result
+## 📜 Result
 <div align="center">
   <img src="https://github.com/Wisawathep/ReadmeTools/blob/main/Pick%20Me%20Course/homepage_final.png" height="600"  />
   <img width="12" />
@@ -67,7 +66,7 @@ Python | HTML | CSS | JavaScript | TypeScript | React | Next.js | Uvicorn | Post
 
 ***
 
-<h5 align="center">COMPUTER ENGINEERING<br>KING MONGKUT'S UNIVERSITY OF TECHNOLOGY NORTH BANGKOK, A.Y. 2023/26</h5>
+<h5 align="center">COMPUTER ENGINEERING<br>KING MONGKUT'S UNIVERSITY OF TECHNOLOGY NORTH BANGKOK, A.Y. 2023/27</h5>
 <p align="center">
   <img width="100" height="100" src="https://github.com/Wisawathep/ReadmeTools/blob/main/Kmutnb/Logo.png">
 </p>
