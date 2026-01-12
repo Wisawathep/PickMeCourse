@@ -29,5 +29,5 @@ about which courses match their interests. This project was created to help solv
 
 <h5 align="center">COMPUTER ENGINEERING<br>KING MONGKUT'S UNIVERSITY OF TECHNOLOGY NORTH BANGKOK, A.Y. 2023/26</h5>
 <p align="center">
-  <img width="100" height="100" src="https://github.com/Wisawathep/ReadmeTools/Kmutnb/logo.png">
+  <img width="100" height="100" src="https://github.com/Wisawathep/ReadmeTools/blob/main/Kmutnb/Logo.png">
 </p>
